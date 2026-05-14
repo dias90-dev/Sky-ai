@@ -1,0 +1,7 @@
+{
+  "name": "Sky Ai - Painel Profissional Insider",
+  "description": "Um painel de apostas esportivas de alto nível fornecendo análise de partidas para cartões e handicaps em ligas Africanas, Asiáticas e Latino-Americanas, com assistente de voz em tempo real do Gemini Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
